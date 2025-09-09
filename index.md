@@ -6,6 +6,7 @@
     <summary>Intro to Web Development</summary>
     <ul>
       <li><a href="./labs/lab-01/lab-01_lab_handout.html">Lab Handout</a></li>
+      <li><a href="https://www.youtube.com/watch?v=r29D2VqqTQk">Lab Video</a></li>
       <li><a href="./labs/lab-01/lab-01_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-01/Template.zip" download>Template Download</a></li>
     </ul>
