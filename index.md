@@ -17,6 +17,7 @@
     <ul>
       <li><a href="./labs/lab-02/lab-02_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-02/lab-02_lab_activity.html">Lab Activity</a></li>
+      <li><a href="https://www.youtube.com/watch?v=_y185_5ATu0">Lab Video</a></li>
       <li><a href="./labs/lab-02/Template.zip" download>Template Download</a></li>
     </ul>
   </details>
@@ -76,7 +77,7 @@
   </h4>
 
   <h4>
-    <a href="./homeworks/black_hat_white_hat.html">A2: Black Hat & White Hat Visualization</a>
+    <a href="./homeworks/gray_hat_red_hat.html">A2: Gray Hat & Red Hat Visualization</a>
   </h4>
 
   <h4>
