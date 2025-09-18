@@ -1,7 +1,7 @@
 ---
 title: Lab 1 Handout
 ---
-# Week 2 | Lab Handout
+# Lab 1 Handout
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 title: Lab 4 Handout
 ---
 
-# Week 05 | Lab Handout
+# Lab 4 Handout
 
 ### Learning Objectives
 

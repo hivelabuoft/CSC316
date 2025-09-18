@@ -3,7 +3,7 @@ title: Lab 2 Handout
 ---
 
 
-# Week 03 | Lab Handout
+# Lab 2 Handout
 
 
 ### Learning Objectives

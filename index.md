@@ -93,7 +93,8 @@
 
 
 # Final Project
-#### [Final Project Spec](./final_project/project_spec.md)
+### [Final Project Spec](./final_project/project_spec.md)
+### [Final Project Process Book](https://docs.google.com/document/d/1OmW1aHIV_iWhOEiAxzmZYb9RhAnIdeDBl_LPT2WKDQA/edit?tab=t.8n0i8ha4fj9)
 
 # Office Hours
 
@@ -103,7 +104,7 @@ Please [**read the instructions carefully**](./office_hour/students.md) before a
 
 | #   | TA Name | Office Hour Time         | Queue Link                  | Zoom Link |
 |-----|--------|-----------------------------|----------------------------|----------|
-| 1   | xxx    | Mondays, 1:00–2:30 PM        | [Queue](https://queuestatus.com/) | [Zoom](#) |
-
+| 1   | Patrick/Nicole    | Tuesdays, 11:00 AM–12:00 PM        | [Queue](https://queuestatus.com/) | [Zoom (Passcode: 383750)](https://utoronto.zoom.us/j/84574484430) |
+| 1   | Matthew/Oliver    | Thursdays, 11:00 AM–12:00 PM        | [Queue](https://queuestatus.com/) | [Zoom](https://utoronto.zoom.us/my/h2ohuang) |
 
 # [Data Visualization Resources](./resources.md)

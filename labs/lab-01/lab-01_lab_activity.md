@@ -2,7 +2,7 @@
 title: Lab 1 Activity
 ---
 
-# Week 2 | Lab Activities
+# Lab 1 Activities
 
 ## Learning Objectives
 
@@ -162,8 +162,16 @@ The following files and folders have been provided:
 
 Congratulations, you have now completed this week's lab!
 
-Please submit your completed lab by next Monday on Markus.
-**Don't forget to complete the associated lab quiz on Quercus!**
+Please submit your completed lab by next Monday on Markus. **Don't forget to complete the associated lab quiz on Quercus!**
 
+Use the following folder structure:
+
+
+```
+/submission_lab1_FirstnameLastname
+    css/ 		...folder with all CSS files
+    js/ 		...folder with all JavaScript files\
+    index.html
+```
 
  *See you next week!*

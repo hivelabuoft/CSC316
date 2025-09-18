@@ -2,7 +2,7 @@
 title: Lab 5 Activity
 ---
 
-# Week 06 | Lab Activity
+# Lab 5 Activity
 
 ### Learning Objectives
 
@@ -374,5 +374,20 @@ Congratulations, you have now completed this week's lab!
 Please submit your completed lab by next Monday on Markus.
 **Don't forget to complete the associated lab quiz on Quercus!**
 
+Use the following folder structure:
+
+```
+css/ 		
+	style.css
+data/
+	...
+fonts/
+	...
+js/ 
+	main.js
+	stackedAreaChart.js
+	timeline.js
+index.html	
+```
 
  *See you next week!*

@@ -2,7 +2,7 @@
 title: Lab 3 Handout
 ---
 
-# Week 04 | Lab Handout
+# Lab 3 Handout
 
 ### Pre-Reading Quiz
 Please fill out the pre-reading quiz on Quercus at the beginning of class!

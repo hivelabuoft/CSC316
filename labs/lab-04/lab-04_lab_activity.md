@@ -2,7 +2,7 @@
 title: Lab 4 Activity
 ---
 
-# Week 05 | Lab Activity
+# Lab 4 Activity
 
 ### Learning Objectives
 
@@ -258,6 +258,26 @@ Congratulations, you have now completed this week's lab!
 
 Please submit your completed lab by next Monday on Markus.
 **Don't forget to complete the associated lab quiz on Quercus!**
+
+Use the following folder structure:
+
+```
+Template1/
+	js/
+		data-generator.js
+		main.js
+	index.html
+Template2/
+	css/
+		style.css
+	data/
+		...
+	fonts/
+		...
+	js/
+		main.js
+	index.html
+```
 
  *See you next week!*
  
