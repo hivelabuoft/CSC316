@@ -83,7 +83,7 @@ This lab will bring you a step closer to implementing more complex visualization
 
 During this lab we will introduce a concept which will help you to structure a D3 project with multiple visualizations. For this reason, we will also describe the file structure in more detail. The main change is that each visualization is a separate JS object and the implementation of the different visualizations is moved into separate JS files.
 
-[Template.zip](https://cnobre.github.io/W25-CSC316H/week-06/lab/week-06-lab-template.zip)
+[Template.zip](https://hivelabuoft.github.io/CSC316/labs/lab-05/Template.zip)
 
 
 ## Preview

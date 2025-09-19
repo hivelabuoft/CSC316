@@ -22,7 +22,7 @@ exclude: true
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)). In this lab you will learn how to use D3 layout methods to implement more complex svg shape elements (in contrast to rect or circle elements). After drawing an interactive pie-chart as a warm-up, the main task of the lab will be to create an interactive choropleth map.
+In this lab you will learn how to use D3 layout methods to implement more complex svg shape elements (in contrast to rect or circle elements). After drawing an interactive pie-chart as a warm-up, the main task of the lab will be to create an interactive choropleth map.
 
 *Result:*
 
@@ -46,7 +46,7 @@ In today's session ([download template](https://cnobre.github.io/W25-CSC316H/wee
 
 1. **Download the template for this week's lab**
 
-    The provided [template](https://cnobre.github.io/W25-CSC316H/week-08/lab/Template.zip) includes:
+    The provided [template](https://hivelabuoft.github.io/CSC316/labs/lab-06/Template.zip) includes:
 
     - a css folder with a very basic ```styles.css``` file that styles your tooltips
     - a data folder with files that we will need for Activity II.

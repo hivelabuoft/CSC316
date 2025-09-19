@@ -23,7 +23,7 @@ In this lab you will work on a task that is continuous, it is a bit longer than 
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)). In this lab you will work on creating an interactive area chart and implement an additional linked view with brushing functionality. You will work with a dataset that contains detailed annual statistics on family food and drink purchases in the UK. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
+In this lab you will work on creating an interactive area chart and implement an additional linked view with brushing functionality. You will work with a dataset that contains detailed annual statistics on family food and drink purchases in the UK. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
 
 *Result:*
 
@@ -104,7 +104,7 @@ For simplicity reasons, in the example code below, we have not always included t
 
 1. **Download the template**
 
-	[Template.zip](https://cnobre.github.io/W25-CSC316H/week-06/lab/week-06-lab-template.zip)
+	[Template.zip](https://hivelabuoft.github.io/CSC316/labs/lab-05/Template.zip)
 	
 	Check the ```index.html``` file and get a quick overview of the template.
 

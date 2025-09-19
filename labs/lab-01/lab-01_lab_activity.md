@@ -24,7 +24,7 @@ After completing this lab you will be able to:
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)), we will be working with a dataset that provides global attractions data to build a themed website.
+In today's session ([download template](https://hivelabuoft.github.io/CSC316/labs/lab-01/Template.zip)), we will be working with a dataset that provides global attractions data to build a themed website.
 
 ![Lab 2 - Preview](assets/lab-01_lab_preview.png?raw=true "Lab 2 - Preview")
 
@@ -41,7 +41,7 @@ In today's session ([download template](https://cnobre.github.io/W25-CSC316H/wee
 
 ## Activity 1: Tasks
 
-1. **Download the Template**: Start by downloading the [template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip) for this week's lab.
+1. **Download the Template**: Start by downloading the [template](https://hivelabuoft.github.io/CSC316/labs/lab-01/Template.zip) for this week's lab.
 2. **Explore `index.html`**: Open and review the `index.html` file included in the template to familiarize yourself with the basic structure.
 3. **Include Bootstrap**: Integrate Bootstrap's CSS and JS into your `index.html` to facilitate responsive design and utilize utility classes.
     

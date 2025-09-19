@@ -19,7 +19,7 @@ title: Lab 4 Activity
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)). In this lab you will work on a bar graph with flexible scales and axes that are sortable and allow for filtering. You will be working with a dataset of coffee house chains. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
+ In this lab you will work on a bar graph with flexible scales and axes that are sortable and allow for filtering. You will be working with a dataset of coffee house chains. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
 
 *Result:*
 
@@ -44,7 +44,7 @@ In this activity you will visualize how customer orders are processed at a coffe
 
 1. **Download the framework**
 
-	[template1.zip](https://cnobre.github.io/W25-CSC316H/week-05/lab/template1.zip)
+	[template1.zip](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template1.zip)
 
 	The framework includes:
 
@@ -90,7 +90,7 @@ In this activity you will create an interactive bar chart showing a ranking of l
 
 1. **Download the framework**
 
-	[template2.zip](https://cnobre.github.io/W25-CSC316H/week-05/lab/template2.zip)
+	[template2.zip](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template2.zip)
 
 	The framework is based on Bootstrap and D3. You should use it for the remainder of this lab. The template includes:
 	

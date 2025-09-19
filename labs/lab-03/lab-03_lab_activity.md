@@ -19,7 +19,7 @@ title: Lab 3 Activity
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)). In this lab you will work on a scatterplot with flexible scales and axes. You will compare the lifetime expectancy (health) against the GDP per capita (wealth) of 188 countries. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
+In this lab you will work on a scatterplot with flexible scales and axes. You will compare the lifetime expectancy (health) against the GDP per capita (wealth) of 188 countries. All activities in this lab are building on each other, so it is very important that you complete all tasks in order.
 
 *Result:*
 
@@ -42,7 +42,7 @@ In today's session ([download template](https://cnobre.github.io/W25-CSC316H/wee
 
 1. **Download the framework**
 
-	[template](https://cnobre.github.io/W25-CSC316H/week-04/lab/week-04_lab_template.zip)
+	[template](https://hivelabuoft.github.io/CSC316/labs/lab-03/Template.zip)
 	
 	We have included *Bootstrap*, *D3* and the dataset *wealth_health_data.csv*. The HTML document contains an empty *div* container for the scatterplot and the CSV import is implemented in the JS file ```main_presentation.js```.
  

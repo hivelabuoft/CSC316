@@ -41,7 +41,7 @@ project/
 
 ## Overview
 
-In today's session ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)), we will be working with basic D3 functionalities.
+In today's session ([download template](https://hivelabuoft.github.io/CSC316/labs/lab-02/Template.zip)), we will be working with basic D3 functionalities.
 
 - **Activity 1: Using SVG drawing area**
    - Learn about how to render shapes and texts within an SVG drawing area.

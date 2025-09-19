@@ -22,7 +22,7 @@ On Quercus!
 
 ## Overview
 
-Make sure to ([download template](https://cnobre.github.io/W25-CSC316H/week-02/lab/Template.zip)). In this lab we want to guide you through creating a highly customized visualization in D3, without using typical building blocks like bar charts or line charts. That means that in this lab you will have to deal not just with writing correct D3 syntax, but also with figuring out *in what way* you can implement a certain feature.
+Make sure to ([download template](https://hivelabuoft.github.io/CSC316/labs/lab-07/Template.zip)). In this lab we want to guide you through creating a highly customized visualization in D3, without using typical building blocks like bar charts or line charts. That means that in this lab you will have to deal not just with writing correct D3 syntax, but also with figuring out *in what way* you can implement a certain feature.
 
 *Result:*
 

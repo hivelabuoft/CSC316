@@ -5,8 +5,8 @@
   <details>
     <summary>Intro to Web Development</summary>
     <ul>
-      <li><a href="./labs/lab-01/lab-01_lab_handout.html">Lab Handout</a></li>
       <li><a href="https://www.youtube.com/watch?v=r29D2VqqTQk">Lab Video</a></li>
+      <li><a href="./labs/lab-01/lab-01_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-01/lab-01_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-01/Template.zip" download>Template Download</a></li>
     </ul>
@@ -15,9 +15,9 @@
   <details>
     <summary>Intro to D3 </summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=_y185_5ATu0">Lab Video</a></li>
       <li><a href="./labs/lab-02/lab-02_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-02/lab-02_lab_activity.html">Lab Activity</a></li>
-      <li><a href="https://www.youtube.com/watch?v=_y185_5ATu0">Lab Video</a></li>
       <li><a href="./labs/lab-02/Template.zip" download>Template Download</a></li>
     </ul>
   </details>
@@ -50,8 +50,23 @@
     </ul>
   </details>
 
-  <h4>D3 Layouts & GeoJSON [TBA]</h4>
-  <h4>Network Visualization in D3 [TBA]</h4>
+  <details>
+    <summary>D3 Layouts & GeoJSON</summary>
+    <ul>
+      <li><a href="./labs/lab-06/lab-06_lab_handout.html">Lab Handout</a></li>
+      <li><a href="./labs/lab-06/lab-06_lab_activity.html">Lab Activity</a></li>
+      <li><a href="./labs/lab-06/Template.zip" download>Template Download</a></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Network Visualization in D3</summary>
+    <ul>
+      <li><a href="./labs/lab-07/lab-07_lab_handout.html">Lab Handout</a></li>
+      <li><a href="./labs/lab-07/lab-07_lab_activity.html">Lab Activity</a></li>
+      <li><a href="./labs/lab-07/Template.zip" download>Template Download</a></li>
+    </ul>
+  </details>
 
   <hr>
 
@@ -69,28 +84,14 @@
 
 
 # Homeworks
-<details>
-  <summary>Click to expand homework assignments</summary>
 
-  <h4>
-    <a href="./homeworks/dear_data.html">A1: Dear Data</a>
-  </h4>
+### [A1: Dear Data](./homeworks/dear_data.md)
 
-  <h4>
-    <a href="./homeworks/gray_hat_red_hat.html">A2: Gray Hat & Red Hat Visualization</a>
-  </h4>
+### [A2: Gray Hat & Red Hat Visualization](./homeworks/gray_hat_red_hat.md)
 
-  <h4>
-    <a href="./homeworks/viz_critique.html">A3: Design Critique & Re-Design</a>
-  </h4>
+### [A3: Design Critique & Re-Design](./homeworks/viz_critique.md)
 
-  <h4>
-    <a href="./homeworks/interactive_viz.html">A4: Interactive Visualization</a>
-  </h4>
-
-</details>
-
-
+### [A4: Interactive Visualization](./homeworks/interactive_viz.md)
 
 # Final Project
 ### [Final Project Spec](./final_project/project_spec.md)
