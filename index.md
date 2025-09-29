@@ -25,6 +25,7 @@
   <details>
     <summary>Scales & Axes in D3</summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=JiqsqClKOmw">Lab Video</a></li>
       <li><a href="./labs/lab-03/lab-03_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-03/lab-03_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-03/Template.zip" download>Template Download</a></li>
@@ -34,6 +35,7 @@
   <details>
     <summary>Basic Interactivity in D3 </summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=HgJXWfNCPiE">Lab Video</a></li>
       <li><a href="./labs/lab-04/lab-04_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-04/lab-04_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-04/Template1.zip" download>Template1 Download</a></li>
