@@ -16,10 +16,10 @@ You will host your final project as a public website using GitHub Pages or any o
 | Week 2  | Team formation and proposal | **Jan 16::** Group sign-up, team agreement & project proposal |
 | Week 3  | Data Exploration | **Jan 23:** Map & Data Exploration |
 | Week 6  | Sketches and Lo-Fi Prototype | **Feb 13:** Sketches, Storyboard, & Prototype V1 |
-| Week 10 | Prototype V2 | **Mar 13:** Prototype V2 |
+| Week 10 | Hi-Fi Prototype | **Mar 13:** Prototype V2 |
 | Week 11 | Test | **Mar 20:** Think Aloud Study Results |
 | Week 13 | Presentation | **Apr 2: Final Presentation In-Class\!** |
-| Week 14 |  | **Apr 6**: Final Submission,  Self and Peer Group Assessment |
+| Week 14 | Final Submission | **Apr 6**: Final Submission,  Self and Peer Group Assessment |
 
 **Teams**: You will pick your own team of 5-6 students to work with. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades based on peer assessments. **Communication is key\!** You should make good faith efforts to reach out to your teammates and to respond in a timely manner. You'll also draft a team agreement early on in the project that will set expectations and guidelines for how to collaborate. 
 
@@ -77,8 +77,6 @@ Here is an overview of the deliverables for each week; for more details on each,
 
 **Week 14: Wrap Up & Submission & Peer Assessment**  
 You will finalize your web-based data story and submit your final project on **April 6th**. You will host your final project as a public website using GitHub pages or any other web hosting service of your choice (we strongly encourage you to use GitHub). You’ll also submit your process book, code, data, and a narrated screen-cast of your project. Finally, you will fill in the self and group peer assessment form.
-
-## 
 
 ## **What to submit**
 

@@ -80,7 +80,7 @@ This assignment is scored out of a maximum of 10 points. We will determine score
 You can be awarded a maximum of 3 points for each sketch and its related reflection. A functional sketch that squarely meets the requirements can expect to earn 2 points. The remaining point will be awarded for communicating your overall reflection across the 3 sketches as described in the above section “Your Tasks”. We also reserve the right to penalize any submissions with overly lengthy reflections; that do not meet the minimum data collection requirements, etc.
 
 ## Submission Details/Checklist
-This is an individual assignment. **You may not work in groups.** Your completed assignment is due on **Friday 9/26, 11:59 pm ET**.
+This is an individual assignment. **You may not work in groups.** Your completed assignment is due on **Friday 1/30, 11:59 pm ET**.
 
 Submit your assignment on Markus. Make sure to include the following:
 - [ ]  The personal data you have collected (either as a PDF or a tabular format)
