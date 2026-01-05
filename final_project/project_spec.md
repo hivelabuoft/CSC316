@@ -8,27 +8,22 @@ Your project will require you to design **two novel visualizations** that don’
 
 You will host your final project as a public website using GitHub Pages or any other web hosting service of your choice (we strongly encourage you to use GitHub).  
    
-**When**: Here is the weekly schedule with deliverables. All project milestones are due on Fridays (except for the final presentation and final submission).
+**When**: Here is the schedule of deliverables. All project milestones are due on Fridays (except for the final presentation and final submission).
 
 
 | Week | Main Tasks | Submissions  |
 | :---- | :---- | :---- |
-| Week 3 (Sept 15-21) | Find a team and a topic | **Sept 19:** Group sign-up |
-| Week 4 (Sept 22-28) | Project planning | **Sept 26:** Team Agreement & Project Proposal |
-| Week 5 (Sept 29-Oct 5\) | Team Agreement and Detailed Project Plan, Data | **Oct 3:** Map (Initial Plan) |
-| Week 6 (Oct 6-Oct 12\) | Data, Map | **Oct 10:** Map (Data Exploration) |
-| Week 7 (Oct 13-Oct 19\) | Sketch, Decide, Start Prototyping, **Mentor Meetings** | **Oct 17:** Sketches, Storyboard |
-| Week 8 (Oct 20-Oct 26\) | Prototype | **Oct 24:** Prototype V1 |
-| Week 9 (Oct 27-Nov 2\) | —Reading Week— | n/a |
-| Week 10 (Nov 3-Nov 9\) | Prototype | n/a |
-| Week 11 (Nov 10-Nov 16\) | Prototype, **Mentor Meetings** | **Nov 14:** Prototype V2 |
-| Week 12 (Nov 17-Nov 23\) | Test | **Nov 21:** Think Aloud Study Results |
-| Week 13 (Nov 24-Nov 30\) | Wrap Up and Group Assessment | **Nov 25: Final Presentation\!** |
-| Week 14 (Dec 1-2) |  | **Dec 1**: Final Submission,  Self and Peer Group Assessment |
+| Week 2  | Team formation and proposal | **Jan 16::** Group sign-up, team agreement & project proposal |
+| Week 3  | Data Exploration | **Jan 23:** Map & Data Exploration |
+| Week 6  | Sketches and Lo-Fi Prototype | **Feb 13:** Sketches, Storyboard, & Prototype V1 |
+| Week 10 | Prototype V2 | **Mar 13:** Prototype V2 |
+| Week 11 | Test | **Mar 20:** Think Aloud Study Results |
+| Week 13 | Presentation | **Apr 2: Final Presentation In-Class\!** |
+| Week 14 |  | **Apr 6**: Final Submission,  Self and Peer Group Assessment |
 
 **Teams**: You will pick your own team of 5-6 students to work with. In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades based on peer assessments. **Communication is key\!** You should make good faith efforts to reach out to your teammates and to respond in a timely manner. You'll also draft a team agreement early on in the project that will set expectations and guidelines for how to collaborate. 
 
-**Mentor:** We will assign a TA mentor for each team in week 5\. Your mentors will guide you throughout the semester, giving you feedback at each milestone of the project. You'll also have the chance to meet with them during the tutorial sessions in week 7 and 11\.   
+**Mentor:** We will assign a TA mentor for each team in week 4\. Your mentors will guide you throughout the semester, giving you feedback at each milestone of the project. You'll also have the chance to meet with them during the tutorial sessions in weeks 4, 9, and 11\.   
    
 **Topic**: You will pick your own topic and dataset. There are no hard rules, but you should choose a topic that interests you and that would make for a compelling data story.   
    
@@ -44,43 +39,35 @@ Throughout the semester, you will complete milestones that help you advance the 
 
 Here is an overview of the deliverables for each week; for more details on each, see the instructions in the process book.
 
-**Week 3: Group Sign-up**
+**Week 2: Team formation, agreement, & project proposal*
 
-* Form your groups\! The project leader should fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScfhtgkRU4wTVVzpXXi0qHoKUZAf94xtXb3fdhTPYWYZnE6qQ/viewform?usp=header) for group signups. At this point, you should have an initial idea for your project, which you will refine over the coming weeks.
-
-**Week 4: Team Agreement & Project Proposal**
-
-* You’ll develop a more concrete proposal for your topic, including: a title, abstract, and proposed dataset(s).  
+* Form your groups\! The project leader should fill out the [Google form - available soon](#) for group signups.
+* You’ll develop a proposal for your topic, including: a title, abstract, and proposed dataset(s).  
 * You’ll also write an initial Team Agreement so that your group is on the same page.
+* At this point, while you should have an initial idea for your project, you are free to refine, modify, or change completely in the coming weeks.
 
-**Week 5: Map (Initial Planning)**
+**Week 3: Map & Data Exploration**
 
 * **Background and Motivation.** Discuss your motivations and reasons for choosing this project, especially any background or research interests that may have influenced your decision.  
 * **Related Work.** Anything that inspired you, such as a paper, website, and visualizations we discussed in class.  
 * **Audience and Questions**. Describe your audience and the primary questions you are trying to answer with your data story. Do you have any overarching goals and objectives that you want to accomplish?  
 * **Data**. From where and how are you collecting your data? If appropriate, provide a link to your data sources.  
 * **Data Cleanup**. Do you expect to do substantial data cleanup? What quantities do you plan to derive from your data? How will data processing be implemented? Try to minimize the amount of cleanup you have to do by finding cleaned and ready-to-go data sources whenever possible. 
-
-**Week 6: Data Exploration**
-
 * Create exploratory visualizations of your dataset to get a better sense of what you’re working with.  
 * Reflect on the results of your exploration and how it will affect your project.
 
-**Week 7: Sketch & Storyboard**
+**Week 6: Sketch, Storyboard, & Prototype V1**
 
 * Sketch creative visualization ideas that answer the various questions you’ve come up with so far.  
 * Decide on which sketches to implement.  
 * Create a storyboard that shows how a viewer will experience your data story.
+* Create a first bare-bones visualization prototype. You do not have to have all your visualizations up and running, and it does not need to be completely interactive, but the overall structure and the content should be visible. We will ask you to hand in your code in its current state. 
 
-**Week 8: Prototype V1**
+**Week 10: Prototype V2**
 
-* Create a first working visualization prototype. You do not have to have all your visualizations up and running, and it does not need to be completely interactive, but the overall structure and the content should be clear. We will ask you to hand in your code in its current state. 
+* We expect you to be 95% done with the implementation of your project. It should be ready to be tested by a random person the following week. 
 
-**Week 11: Prototype V2**
-
-* We expect you to be 95% done with the implementation of your data story. It should be ready to be tested by a random person the following week. 
-
-**Week 12: Test**
+**Week 11: Test**
 
 * You will conduct a think-aloud study with a random person from another team that we will assign to you. You will document the results of the study and use them to make changes to your prototype. 
 
@@ -89,13 +76,13 @@ Here is an overview of the deliverables for each week; for more details on each,
 * Present your hard work on November 25\! At the end of class, the TAs will award the Best Project Prizes :)
 
 **Week 14: Wrap Up & Submission & Peer Assessment**  
-You will finalize your web-based data story and submit your final project on **December 1st**. You will host your final project as a public website using GitHub pages or any other web hosting service of your choice (we strongly encourage you to use GitHub). You’ll also submit your process book, code, data, and a narrated screen-cast of your project. Finally, you will fill in the self and group peer assessment form.
+You will finalize your web-based data story and submit your final project on **April 6th**. You will host your final project as a public website using GitHub pages or any other web hosting service of your choice (we strongly encourage you to use GitHub). You’ll also submit your process book, code, data, and a narrated screen-cast of your project. Finally, you will fill in the self and group peer assessment form.
 
 ## 
 
 ## **What to submit**
 
-**Every week (except Week 10\)**, you will complete a project milestone. Export the relevant tab of your process book as a PDF and upload it to Quercus. Some weeks you will have to upload separate files as well (such as your data or code).
+Be sure to check the course calendar for when you are having a "project week" (weeks in which project milestones are due do not coincide with weeks in which class assignments are due). Export the relevant tab of your process book as a PDF and upload it to Quercus. Some weeks you will have to upload separate files as well (such as your data or code).
 
 **At the end of the final project**, your team will submit the following items in a single .zip file:
 

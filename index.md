@@ -1,3 +1,5 @@
+# [Course Schedule](https://docs.google.com/spreadsheets/d/1x0iF8Ou748MbIrwXi0x2md-TtyjYI6Ej9u3onhErT1E/edit?usp=sharing)
+
 # Labs
 <details>
   <summary>Click to expand list of labs</summary>
@@ -46,6 +48,7 @@
   <details>
     <summary>Brushing & Linking in D3 </summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=BEAeaHuj86s">Lab Video</a></li>
       <li><a href="./labs/lab-05/lab-05_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-05/lab-05_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-05/Template.zip" download>Template Download</a></li>
@@ -55,6 +58,7 @@
   <details>
     <summary>D3 Layouts & GeoJSON</summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=sBfvMN-FCrY">Lab Video</a></li>
       <li><a href="./labs/lab-06/lab-06_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-06/lab-06_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-06/Template.zip" download>Template Download</a></li>
@@ -64,6 +68,7 @@
   <details>
     <summary>Network Visualization in D3</summary>
     <ul>
+      <li><a href="https://www.youtube.com/watch?v=SJVkEFwc_G8">Lab Video</a></li>
       <li><a href="./labs/lab-07/lab-07_lab_handout.html">Lab Handout</a></li>
       <li><a href="./labs/lab-07/lab-07_lab_activity.html">Lab Activity</a></li>
       <li><a href="./labs/lab-07/Template.zip" download>Template Download</a></li>
@@ -72,7 +77,7 @@
 
   <hr>
 
-  <h3>Labs from previous years (for reference only, use at your own risk!)</h3>
+  <h3>Labs from previous years (for reference for assignments/projects, use at your own risk!)</h3>
 
   <h4>
     <a href="./labs/archive-labs/advanced_brushing.html">Advanced Brushing & Linking</a>
@@ -89,25 +94,12 @@
 
 ### [A1: Dear Data](./homeworks/dear_data.md)
 
-### [A2: Gray Hat & Red Hat Visualization](./homeworks/gray_hat_red_hat.md)
+### [A2: Critical Data Zine - TBA](./homeworks)
 
-### [A3: Design Critique & Re-Design](./homeworks/viz_critique.md)
-
-### [A4: Interactive Visualization](./homeworks/interactive_viz.md)
+### [A3: Interactive Visualization - TBA](./homeworks/)
 
 # Final Project
 ### [Final Project Spec](./final_project/project_spec.md)
 ### [Final Project Process Book](https://docs.google.com/document/d/1OmW1aHIV_iWhOEiAxzmZYb9RhAnIdeDBl_LPT2WKDQA/edit?tab=t.8n0i8ha4fj9)
 
-# Office Hours
-
-Please [**read the instructions carefully**](./office_hour/students.md) before attending office hours:  
-
-## Office Hours Schedule
-
-| #   | TA Name | Office Hour Time         | Queue Link                  | Zoom Link |
-|-----|--------|-----------------------------|----------------------------|----------|
-| 1   | Patrick/Nicole    | Tuesdays, 11:00 AM–12:00 PM        | [Queue](https://queuestatus.com/) | [Zoom (Passcode: 383750)](https://utoronto.zoom.us/j/84574484430) |
-| 1   | Matthew/Oliver    | Thursdays, 11:00 AM–12:00 PM        | [Queue](https://queuestatus.com/) | [Zoom](https://utoronto.zoom.us/my/h2ohuang) |
-
-# [Data Visualization Resources](./resources.md)
+# [Data Visualization Resources - Click Me!](./resources.md)
