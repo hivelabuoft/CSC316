@@ -41,7 +41,7 @@ Here is an overview of the deliverables for each week; for more details on each,
 
 **Week 2: Team formation, agreement, & project proposal*
 
-* Form your groups\! The project leader should fill out the [Google form - available soon](#) for group signups.
+* Form your groups\! The project leader should fill out the [Google form](https://forms.gle/5SHtnL5GALs7cQxR8) for group signups.
 * You’ll develop a proposal for your topic, including: a title, abstract, and proposed dataset(s).  
 * You’ll also write an initial Team Agreement so that your group is on the same page.
 * At this point, while you should have an initial idea for your project, you are free to refine, modify, or change completely in the coming weeks.
