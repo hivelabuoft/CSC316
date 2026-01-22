@@ -86,7 +86,14 @@ Submit your assignment on Markus. Make sure to include the following:
 - [ ]  The personal data you have collected (either as a PDF or a tabular format)
 - [ ]  Your 3 final sketches, the associated writeup for each sketch, and the writeup reflecting on your 3 sketches overall as a **single PDF file**.
 
-Make sure your images are sized for a reasonable viewing experience — readers should not have to zoom or scroll in order to effectively view any sketch!
+And follow these formatting guidelines:
+- [ ]  Include a visual legend (not just text descriptions, but legends that use the marks/channels in your visualization!), either on the same page or on a separate sheet.
+- [ ]  If working with paper, please use rulers or other straight edges for straight lines.
+- [ ]  Please take a high-quality scan/image of your sketches; there are various scanning apps available for smartphones. Make sure the sketches are visible the right way up. Your images should be sized for a reasonable viewing experience — readers should not have to zoom or scroll in order to effectively view any sketch!
+- [ ]  The below template serves as guidance for how to format the sketches in the PDF; Google Slides is an easy way to recreate this layout.
+<img width="1511" height="847" alt="image" src="https://github.com/user-attachments/assets/8e82ff3f-45a5-4a09-90fa-b4496c843141" />
+
+Up to 10% of your grade may be deducted for not following formatting guidelines.
 
 ## Tips and Inspiration
 - Use a sharpie/marker. Thick lines free you from worrying about the fine-grained details and accuracy of your sketch, and instead focus you on sketching the big picture ideas.
