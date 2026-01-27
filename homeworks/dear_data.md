@@ -88,7 +88,7 @@ Submit your assignment on Markus. Make sure to include the following:
 
 And follow these formatting guidelines:
 - [ ]  Include a visual legend (not just text descriptions, but legends that use the marks/channels in your visualization!), either on the same page or on a separate sheet.
-- [ ]  If working with paper, please use rulers or other straight edges for straight lines.
+- [ ]  If working with paper, please make sure your sketches are **legible!** Even though your sketches don't have to be visually perfect, the grader should still be able to tell what's going on: ensure handwritten text is clear, make your axes actually readable, etc.
 - [ ]  Please take a high-quality scan/image of your sketches; there are various scanning apps available for smartphones. Make sure the sketches are visible the right way up. Your images should be sized for a reasonable viewing experience — readers should not have to zoom or scroll in order to effectively view any sketch!
 - [ ]  The below template serves as guidance for how to format the sketches in the PDF; Google Slides is an easy way to recreate this layout.
 <img width="1511" height="847" alt="image" src="https://github.com/user-attachments/assets/8e82ff3f-45a5-4a09-90fa-b4496c843141" />
