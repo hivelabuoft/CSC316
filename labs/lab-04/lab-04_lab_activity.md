@@ -44,9 +44,9 @@ In this activity you will visualize how customer orders are processed at a coffe
 
 1. **Download the framework**
 
-	[template1.zip](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template1.zip)
+	[Activity_1](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template.zip)
 
-	The framework includes:
+	Use the folder labelled "Activity_1" in the unzipped folder. The framework includes:
 
 	- A basic D3 project with a script that simulates the order queue
 	- an index.html file with a headline and an empty container for the visualization
@@ -90,7 +90,9 @@ In this activity you will create an interactive bar chart showing a ranking of l
 
 1. **Download the framework**
 
-	[template2.zip](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template2.zip)
+	[Activity_2](https://hivelabuoft.github.io/CSC316/labs/lab-04/Template.zip)
+
+	Use the folder labelled "Activity_2" in the unzipped folder.
 
 	The framework is based on Bootstrap and D3. You should use it for the remainder of this lab. The template includes:
 	
@@ -262,12 +264,12 @@ Please submit your completed lab by next Monday on Markus.
 Use the following folder structure:
 
 ```
-Template1/
+Activity_1/
 	js/
 		data-generator.js
 		main.js
 	index.html
-Template2/
+Activity_2/
 	css/
 		style.css
 	data/
