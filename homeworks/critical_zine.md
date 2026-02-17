@@ -89,7 +89,7 @@ The following research papers help enumerate the ways different choices in data 
 For zine design inspiration, consider: 
 - Visiting the [Toronto Zine library](https://www.torontozinelibrary.org/hourslocation/) with your groupmates over the reading break. It's only open twice a week on Tuesdays and Fridays so plan accordingly! 
 - Browsing this [collection of zines](https://www.mcnutt.in/zine-potential/) amassed by Andrew McNutt (from the University of Utah) that have to do with visualization (broadly construed). 
-- Checking out this [zine that your TA's worked on](https://zxnnic.github.io/data/pdf/ai-companion-zine.pdf) to help disseminate their research. (Ask one of us during your next design checkpoint if you'd like a physical copy!)
+- Checking out this [zine that your TA's worked on](https://zxnnic.github.io/data/pdf/ai-companion-zine.pdf) to help disseminate their research on AI companionship. (Ask one of us during your next design checkpoint if you'd like a physical copy!)
 
 
 ## Acknowledgements
