@@ -93,7 +93,7 @@
 
 ### [A1: Dear Data](./homeworks/dear_data.md)
 
-### [A2: Critical Data Zine - TBA](./homeworks/critical_zine.md)
+### [A2: Critical Data Zine](./homeworks/critical_zine.md)
 
 ### [A3: Interactive Visualization - TBA](./homeworks/)
 
